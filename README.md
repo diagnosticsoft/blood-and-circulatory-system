@@ -23,3 +23,6 @@ The documentation can be deployed to GitHub Pages for easy access. To do this, f
    - ``make clean revealjs``
 2. **Deploy to GitHub Pages**
    - ``gh-pages -d build/revealjs`` 
+
+### Contributing
+Contributions are welcome! Please fork the repository and submit a pull request with your changes. For major changes, please open an issue first to discuss what you would like to change.
