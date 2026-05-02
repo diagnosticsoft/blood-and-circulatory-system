@@ -4,7 +4,7 @@ A concise, educational documentation project covering the human blood and circul
 
 ### Getting started
 1. **Clone the project**
-   - ``git clone https://github.com/phattrienai/blood_circulatory_sys_documentation.git``
+   - ``git clone https://github.com/diagnosticsoft/blood-and-circulatory-system.git``
    - ``cd blood_circulatory_sys_documentation``
 2. **Create a virtual environment and activate it**
    - ``python3 -m venv venv``
@@ -23,6 +23,3 @@ The documentation can be deployed to GitHub Pages for easy access. To do this, f
    - ``make clean revealjs``
 2. **Deploy to GitHub Pages**
    - ``gh-pages -d build/revealjs`` 
-
-### Contributing
-Contributions are welcome! Please fork the repository and submit a pull request with your changes. For major changes, please open an issue first to discuss what you would like to change.
