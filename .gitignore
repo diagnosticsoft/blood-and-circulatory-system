@@ -1,0 +1,24 @@
+# Build output
+build/
+
+# Python virtual environments
+venv/
+
+# IDE and editor settings
+.vscode/
+.idea/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.swp
+*.tmp
+
+# Sphinx doctree cache
+source/.doctrees/
